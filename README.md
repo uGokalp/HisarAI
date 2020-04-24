@@ -1,3 +1,5 @@
+[![Build Status]]
+
 # HisarAI: An Introductory course in Data Science
 
 
