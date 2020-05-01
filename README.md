@@ -1,4 +1,5 @@
 # HisarAI: An Introductory course in Data Science
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uGokalp/HisarAI/master)
 
 
 
