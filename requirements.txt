@@ -45,7 +45,6 @@ Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
 sklearn==0.0
-terminado==0.8.1
 testpath==0.4.4
 tornado==5.1.1
 traitlets==4.3.2
