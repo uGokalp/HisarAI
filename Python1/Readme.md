@@ -1,5 +1,5 @@
 
-Python 1: An introduction to Python quarantined teens
+Python 1: An introduction to Python for quarantined teens
 
 1. Variables
 2. Data Types I (Int, Float, Boolean, String)
